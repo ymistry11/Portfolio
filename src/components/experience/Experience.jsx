@@ -1,29 +1,8 @@
 import React from "react";
 import "./experience.css";
-import { ImHtmlFive } from "react-icons/im";
-import { FaCss3 } from "react-icons/fa";
-import { IoLogoJavascript } from "react-icons/io";
-import { FaReact, FaAws } from "react-icons/fa";
-import { BsBootstrapFill, BsFillCaretUpFill } from "react-icons/bs";
-import { DiFirebase } from "react-icons/di";
-
-import { GrNode } from "react-icons/gr";
-import { SiExpress } from "react-icons/si";
-import { SiMongodb } from "react-icons/si";
-import { SiNextdotjs } from "react-icons/si";
-import { BiBadge } from "react-icons/bi";
-import { SiDjango } from "react-icons/si";
 import {
-  SiTypescript,
-  SiTailwindcss,
-  SiGithub,
-  SiFigma,
-  SiHeroku,
-  SiVercel,
   SiPython,
   SiPowershell,
-  SiAzuredevops,
-  SiMui,
   SiMicrosoft,
   SiMicrosoftazure,
   SiFirewalla,

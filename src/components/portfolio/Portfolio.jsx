@@ -1,6 +1,5 @@
 import React from "react";
 import "./portfolio.css";
-import liveLong from "../../assets/doc.png";
 import watch_guard from "../../assets/certificates/Network_security_Essentials.jpeg";
 import az_700 from "../../assets/certificates/AZ-700.jpeg";
 import azure_administrator_associate from "../../assets/certificates/azure_administrator_associate.jpg";
