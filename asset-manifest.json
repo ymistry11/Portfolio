@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f111ad96.css",
+    "main.js": "/Portfolio/static/js/main.36e3110d.js",
+    "static/media/cartoon.jpg": "/Portfolio/static/media/cartoon.53d38c256a41ab184ea2.jpg",
+    "static/media/profile.jpeg": "/Portfolio/static/media/profile.0f3ca03d5958e9999715.jpeg",
+    "static/media/b.jpeg": "/Portfolio/static/media/b.9ee90238a9bcfb20ba84.jpeg",
+    "static/media/azure_administrator_associate.jpg": "/Portfolio/static/media/azure_administrator_associate.85104ef66b9c349c8f76.jpg",
+    "static/media/aws_solutions_architect_associate.jpg": "/Portfolio/static/media/aws_solutions_architect_associate.cf40bc2b7bbfcb5c61eb.jpg",
+    "static/media/Yash_Mistry_Resume.pdf": "/Portfolio/static/media/Yash_Mistry_Resume.5f89af2399622a97922d.pdf",
+    "static/media/Network_security_Essentials.jpeg": "/Portfolio/static/media/Network_security_Essentials.77a0506e36118ad23b17.jpeg",
+    "static/media/AZ-700.jpeg": "/Portfolio/static/media/AZ-700.166ab74ca5b8bbaf3ad3.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.f111ad96.css.map": "/Portfolio/static/css/main.f111ad96.css.map",
+    "main.36e3110d.js.map": "/Portfolio/static/js/main.36e3110d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f111ad96.css",
+    "static/js/main.36e3110d.js"
+  ]
+}
